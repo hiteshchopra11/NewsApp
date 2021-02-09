@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/search_view"
+        android:orderInCategory="100"
+        android:title="Search"
+        android:icon="@drawable/ic_baseline_search_24"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/grid_layout"
+        android:title="Grid Layout" />
+
+    <item
+        android:id="@+id/linear_layout"
+        android:title="Linear Layout" />
+
+    <item
+        android:id="@+id/staggered_layout"
+        android:title="Staggered Layout" />
+
+</menu>
