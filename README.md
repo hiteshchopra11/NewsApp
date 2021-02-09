@@ -1,1 +1,1 @@
-"# NewsApp" 
+News App
